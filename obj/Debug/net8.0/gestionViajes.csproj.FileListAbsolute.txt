@@ -1,0 +1,4 @@
+C:\Users\ainxr\source\repos\gestionViajes\obj\Debug\net8.0\gestionViajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ainxr\source\repos\gestionViajes\obj\Debug\net8.0\gestionViajes.AssemblyInfoInputs.cache
+C:\Users\ainxr\source\repos\gestionViajes\obj\Debug\net8.0\gestionViajes.AssemblyInfo.cs
+C:\Users\ainxr\source\repos\gestionViajes\obj\Debug\net8.0\gestionViajes.csproj.CoreCompileInputs.cache
